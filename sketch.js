@@ -88,7 +88,7 @@ function draw() {
   drawSprites();
   
   textSize(20)
-  text = "Score:",+score
+  text ("Score:",+score, 200,20)
 }
 
 
